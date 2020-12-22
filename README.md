@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Android dev to work on my senior project
+🌱 I’m currently learning Android dev to work on my senior project
